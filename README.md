@@ -394,11 +394,9 @@ It is intended for research and educational purposes. Any domain-specific output
 
 # 👩‍💻 Author
 
-**Shruti Agarwal**
+**Ishpreet Singh **
 
 M.Tech
-Indian Institute of Technology Kharagpur
+Indian Institute of Technology Bombay
 
-GitHub: [https://github.com/Avisha2803]
 
-LinkedIn: https://www.linkedin.com/in/shruti2803/
