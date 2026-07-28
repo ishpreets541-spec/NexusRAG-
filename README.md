@@ -1,4 +1,4 @@
-# 🧠 Grounded RAG System
+# 🧠 NexusRAG: Grounded RAG System
 
 > **Production-grade Retrieval-Augmented Generation (RAG) system with Hybrid Retrieval (FAISS + BM25), Citation Verification, FastAPI, Streamlit, Docker, and LLM-powered Question Answering.**
 
