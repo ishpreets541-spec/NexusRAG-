@@ -394,9 +394,11 @@ It is intended for research and educational purposes. Any domain-specific output
 
 # 👩‍💻 Author
 
-**Ishpreet Singh **
+**Ishpreet Singh**
 
 M.Tech
 Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
 
 
